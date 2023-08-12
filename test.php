@@ -1,5 +1,5 @@
 <?php
-//I have created a form in different web page for the loging system in task 3 and codes related to that included in this folder.
+//I have created a form in different web page for the loging system in task 3 and codes related to that included in this file.
 require_once('User_data.php');
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
