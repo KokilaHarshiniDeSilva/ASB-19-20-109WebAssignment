@@ -1,6 +1,7 @@
 # ASB-19-20-109WebAssignment
 i choosed option one to share my database which is Including Database Configuration in GitHub Repository.
-i am sorry to say madam that i could not create a single folder for my media.therefore i upload the zip file of php,css,js and media file in to the lms also
+I am sorry to say ma'am that I could not create a one folder for my media. Really sorry about that
+
 
 This is a description of my project. It includes details about what the project does, how to use it, and how the database is used.
 .
